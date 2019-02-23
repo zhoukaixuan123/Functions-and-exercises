@@ -20,10 +20,6 @@ import java.lang.reflect.Field;
 public class OpencvStudy {
 
 
-
-
-
-
     public static void main(String[] args) {
 
         System.out.println("Welcome to OpenCV " + Core.VERSION);
