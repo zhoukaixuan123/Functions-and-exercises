@@ -7,7 +7,7 @@ public class TwoFalkStudy {
 
     public static void main(String[] args) {
         int[] arr = {1,3,5,7,9,11};
-        int  index = getIndex(arr,18);
+        int  index = getIndex(arr,11);
         System.out.println("索引的位置在第"+index+"位");
 
     }
